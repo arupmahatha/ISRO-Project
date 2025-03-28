@@ -4,13 +4,13 @@
 
     | S.No.| Variable name| Specific variable name                         | Acronyms | Units  | Downloaded from | Time period covered      | Depth  |
     |------|--------------|------------------------------------------------|----------|--------|-----------------|--------------------------|--------|
-    | 1    | Temperature  |                                                |          |        |                 |                          |        |
-    | 2    | Salinity     |                                                |          |        |                 |                          |        |
-    | 3    | Velocity     | Sea Water X Velocity                           |          | m/s    | CMIP6           | 2025-01-16 to 2029-12-16 | 6.0 m  |
-    | 4    | Velocity     |                                                |          |        |                 |                          |        |
-    | 5    | Velocity     |                                                |          |        |                 |                          |        |
+    | 1    | Temperature  | Sea Water Potential Temperature                | thetao   | °C     | CMIP6           | 2025-01-16 to 2029-12-16 | 6.0 m  |
+    | 2    | Salinity     | Sea Water Salinity                             | so       | 0.001  | CMIP6           | 2025-01-16 to 2029-12-16 | 6.0 m  |
+    | 3    | Velocity     | Sea Water X Velocity                           | uo       | m/s    | CMIP6           | 2025-01-16 to 2029-12-16 | 6.0 m  |
+    | 4    | Velocity     | Sea Water Y Velocity                           | vo       | m/s    | CMIP6           | 2025-01-16 to 2029-12-16 | 6.0 m  |
+    | 5    | Velocity     | Sea Water Vertical Velocity                    | wo       | m/s    | CMIP6           | 2025-01-16 to 2029-12-16 | 0.0 m  |
     | 6    | Light        |                                                |          |        |                 |                          |        |
-    | 7    | pH           |                                                |          |        |                 |                          |        |
+    | 7    | pH           | pH                                             | ph       | 1      | CMIP6           | 2025-01-16 to 2029-12-16 | 6.0 m  |
     | 8    | SpCO2        |                                                |          |        |                 |                          |        |
     | 9    | O2           |                                                |          |        |                 |                          |        |
     | 10   | NO3          |                                                |          |        |                 |                          |        |

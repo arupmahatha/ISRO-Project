@@ -39,7 +39,7 @@
 
 
 # Time range:
-    As of Now (cleaned_data.csv): 01/12/2023 → 01/11/2024
+    As of Now (cleaned_data.csv): 01/11/2023 → 01/11/2024
     Green Ocean: 01/06/2022, 00:00 → 08/01/2025, 00:00
     Blue Ocean: 01/11/2021 → 03/01/2025
     Blue Ocean (Chl-a): 01/10/2021, 00:00 → 01/11/2024, 00:00
