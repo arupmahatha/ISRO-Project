@@ -11,11 +11,11 @@
     | 5    | Velocity     | Sea Water Vertical Velocity                    | wo       | m/s    | CMIP6           | 2025-01-16 to 2029-12-16 | 0.0 m  |
     | 6    | Light        |                                                |          |        |                 |                          |        |
     | 7    | pH           | pH                                             | ph       | 1      | CMIP6           | 2025-01-16 to 2029-12-16 | 6.0 m  |
-    | 8    | SpCO2        |                                                |          |        |                 |                          |        |
-    | 9    | O2           |                                                |          |        |                 |                          |        |
-    | 10   | NO3          |                                                |          |        |                 |                          |        |
-    | 11   | PO4          |                                                |          |        |                 |                          |        |
-    | 12   | Si           |                                                |          |        |                 |                          |        |
+    | 8    | SpCO2        | Surface Aqueous Partial Pressure of CO2        | spco2    | Pa     | CMIP6           | 2025-01-16 to 2029-12-16 | 0.0 m  |
+    | 9    | O2           | Dissolved Oxygen Concentration                 | o2       | mol/m³ | CMIP6           | 2025-01-16 to 2029-12-16 | 6.0 m  |
+    | 10   | NO3          | Dissolved Nitrate Concentration                | no3      | mol/m³ | CMIP6           | 2025-01-16 to 2029-12-16 | 6.0 m  |
+    | 11   | PO4          | Dissolved Inorganic Phosphorus Concentration   | po4      | mol/m³ | CMIP6           | 2025-01-16 to 2029-12-16 | 6.0 m  |
+    | 12   | Si           | Dissolved Inorganic Silicon Concentration      | si       | mol/m³ | CMIP6           | 2025-01-16 to 2029-12-16 | 6.0 m  |
     | 13   | Fe           | Dissolved Iron Concentration                   | fe       | mol/m³ | CMIP6           | 2025-01-16 to 2029-12-16 | 6.0 m  |
     | 14   | Chl          | Total Phytoplankton Concentration in Seawater  | chl      | kg/m³  | CMIP6           | 2025-01-16 to 2029-12-16 | 6.0 m  |
 
