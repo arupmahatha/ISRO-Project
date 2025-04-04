@@ -51,6 +51,7 @@
         - `raw_data/` - Raw data for predictions
         - `raw_data_processor/` - Scripts for processing raw data
         - `processed_data/` - Processed data for predictions
+        
         - `imported_data/` - Contains preprocessed oceanographic data files (chl, fe, kd, no3, o2, ph, po4, si, spco2, so, thetao, uo, vo, wo) with projected dates from 2025-2030, used when CMIP6 data is not available
 
         - `plots/` - Generated plots and visualizations
@@ -62,6 +63,7 @@
         #### Key Files:
         - `linear_regression_model.pkl` - Trained Linear Regression model
         - `robust_regression_model.pkl` - Trained Robust Regression model
+
         - `scaler.pkl` - Data scaler for model inputs
         - `neural_network.pkl` - Trained Neural Network model
         - `random_forest.pkl` - Trained Random Forest model
