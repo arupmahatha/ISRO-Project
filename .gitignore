@@ -1,0 +1,21 @@
+# Generated files
+trainer/map_screenshots/
+trainer/plots/
+prediction/map_screenshots/
+prediction/plots/
+
+# System files
+.DS_Store
+**/.DS_Store
+
+# Temporary files
+prediction/temp_map.html
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
